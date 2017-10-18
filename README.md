@@ -97,7 +97,7 @@ become available.
 name                                                                          | provides
 ------------------------------------------------------------------------------|-----------------------------------------------
 [`couchbase`](http://www.couchbase.com/)                                      | `couchbase`
-[`docker`](https://www.docker.com/)                                           | `dockerrepo`
+[`docker`](https://www.docker.com/)                                           | `docker-ce-stable`
 [`elasticsearch`](https://www.elastic.co/products/elasticsearch)              | `elasticsearch-2.x`
 [`endpoint`](https://packages.endpoint.com/)                                  | `endpoint`
 [`epel`](https://fedoraproject.org/wiki/EPEL)                                 | `epel`
